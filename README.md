@@ -1,1 +1,3 @@
-# Codesoft-task-1
+# newsmania 
+a blogging site create for latest news update
+
